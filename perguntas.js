@@ -1,13 +1,13 @@
 criaCartao(
     'Programação',
-    'O que faz um programador?',
-    'Programador mexe computaria!'
+    'O que é seu mas as pessoas usam mais que você?',
+    'O seu nome!'
 )
 
 criaCartao(
     'Geografia',
     'Qual país tem no nome uma sílaba que dá para comer?',
-    'Cuba!'
+    'Japão!'
 )
 
 criaCartao(
@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz "peixe", "bola" e "gato" em Inglês?',
-    'Fish, Ball, Cat!'
+    'Como se diz "onde está o gato" em inglês?',
+    '"Where is the cat?"'
 )
